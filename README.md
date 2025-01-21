@@ -95,4 +95,4 @@ L'atelier inclut également des opérations CRUD pour manipuler les données sto
 
 ---
 
-Pour toute question ou assistance, n'hésitez pas à contacter les encadrants via [LinkedIn](https://ma.linkedin.com/in/youssef-souaidi-64371b251).
+Pour toute question ou assistance, n'hésitez pas à me contacter [LinkedIn](https://ma.linkedin.com/in/youssef-souaidi-64371b251).
